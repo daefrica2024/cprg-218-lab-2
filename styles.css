@@ -1,0 +1,22 @@
+header{
+	display:block;
+	background-color:#120323;
+	color:#97bf04;
+    align-content: center;
+    text-align: center;
+}
+
+main{
+    margin: auto;
+    display: block;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+button{
+    margin: auto;
+    background-color: #d9043d;
+}
