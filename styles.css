@@ -14,9 +14,11 @@ main{
 img{
     margin: auto;
     display: block;
+    border-radius: 10px;
 }
 
 button{
     margin: auto;
     background-color: #d9043d;
+    border-radius: 10px;
 }
